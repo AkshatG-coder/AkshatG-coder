@@ -11,17 +11,13 @@
   <a href="mailto:akshat2004g@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/akshat2004g">
-    <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
 </p>
 
 ---
 
 ### 👋 About Me
 
-- 🎓 **B.Tech in Electronics and Communication Engineering** at The LNM Institute of Information Technology (CGPA: **8.36/10**)
-- 💼 **Ex-Software Engineering Intern** at Globe Capital Market Limited
+- 🎓 **B.Tech in Electronics and Communication Engineering** at The LNM Institute of Information Technology (CGPA: **8.58/10**)
 - 🛠️ Expert in **Monorepo Architecture (Turborepo)**, **Real-time WebSockets**, and **Cloud Infrastructure**
 - 📈 Driven by solving complex problems in **Distributed Systems** and **Competitive Programming**
 
