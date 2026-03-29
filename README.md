@@ -1,78 +1,71 @@
-# 👋 Hi, I'm Akshat Gupta! 🚀
+# 🚀 Full Stack & Systems Engineer
 
-A high-performance **Full Stack & Systems Engineer** with a passion for scalable architectures, real-time systems, and competitive programming.
-
----
-
-### 👨‍💻 Professional Summary
-- 🎓 **B.Tech in Electronics and Communication Engineering** at The LNM Institute of Information Technology (CGPA: 8.36/10).
-- 🏆 **Scholastic Excellence:** Secured AIR **21,570** in JEE Advanced and **96.12%ile** (Top 4%) in JEE Mains.
-- 🛠️ Specialist in **Monorepo management (Turborepo)** and **Cloud Infrastructure**.
-- ☁️ Experienced in building low-latency systems and **DevOps automation**.
-
----
-
-### 🏆 Coding Profiles & Achievements
-<p align="left">
-  <a href="https://leetcode.com/AkshatG-coder"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/AkshatG-coder"><img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/akshat2004g"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkshatG-coder/AkshatG-coder/main/header.png" alt="Akshat Gupta Banner" width="100%" />
 </p>
 
-- **LeetCode:** Rated **1750** | Solved **800+** Problems | Top 10% in Global Contests.
-- **CodeChef:** **2-Star** Coder (Max Rating: **1555**).
-- **Codeforces:** Rated **1160** (Max: **1224**).
+### 👋 About Me
+- 🎓 **B.Tech in Electronics and Communication Engineering** at The LNM Institute of Information Technology (CGPA: 8.36/10).
+- 💼 **Ex-Software Engineering Intern** at Globe Capital Market Limited.
+- 🛠️ Expert in **Monorepo Architecture (Turborepo)**, **Real-time WebSockets**, and **Cloud Infrastructure**.
+- 📈 Driven by solving complex problems in **Distributed Systems** and **Competitive Programming**.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
 ---
 
-### 📂 Key Projects
+### 📂 Featured Projects
 
-#### 🎨 [SyncBoard](https://github.com/AkshatG-coder/SyncBoard)
-> Real-time collaborative whiteboard engine.
-- Integrated **WebSockets** for bidirectional communication and **Optimistic UI** updates.
-- Built on a **Turborepo Monorepo** with **Neon Cloud DB** for persistent storage.
+#### 🎨 [SyncBoard (Real-time Whiteboard)](https://github.com/AkshatG-coder/SyncBoard)
+> A high-performance collaborative engine built with **Turborepo** and **WebSockets**.
+- **Features:** Sub-100ms sync, Optimistic UI updates, and secure JWT session management.
+- **Stack:** Next.js 15, ws, Neon Cloud DB, Prisma ORM.
 
-#### 🏆 CodeVault - Online Judge
-> High-concurrency competitive programming platform.
-- Implemented an **asynchronous judging system** to evaluate code in multiple languages.
-- Scalable architecture designed for simultaneous contest participation.
+#### 🏆 [CodeVault (Online Judge)](https://github.com/AkshatG-coder)
+> A full-scale competitive programming platform featuring an asynchronous judging system.
+- Built to handle high-concurrency contest submissions with multi-language support.
 
 #### 📡 [Patch-Antenna Calculator](https://github.com/AkshatG-coder/patch-antenna)
-> Engineering tool for calculating Microstrip Patch Antenna dimensions.
-- Developed for precision telecommunication hardware prototyping.
-
-#### 🤖 [Adaptive Control Design](https://github.com/AkshatG-coder/Non-linear-and-Adaptive-Control-Design)
-> Research on **Non-linear control systems** and autonomous navigation algorithms.
+> Precision engineering tool for telecommunication research and hardware prototyping.
 
 ---
 
-### 📫 Connect with Me
+### 🏆 Competitive Programming Achievements
 <p align="left">
-  <a href="mailto:akshat2004g@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/akshat-gupta-lnmiit](https://www.linkedin.com/in/akshat-gupta-116a08210/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/akshat2004g"><img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/akshat2004g"><img src="https://img.shields.io/badge/CodeChef-3--Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Akshat_2004"><img src="https://img.shields.io/badge/Codeforces-Pupil-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
+
+- **LeetCode:** **Knight** (Rating: **1893**) | Solved **1,225+** Problems | Top **4.55%** Globally.
+- **CodeChef:** **3-Star** (Max Rating: **1625**).
+- **Codeforces:** Max Rating: **1224** (Pupil).
+
+---
+
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshatG-coder&show_icons=true&theme=tokyonight&count_private=true" alt="Akshat's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatG-coder&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/akshat-gupta-116a08210/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akshat2004g@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
