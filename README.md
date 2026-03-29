@@ -85,13 +85,12 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshatG-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatG-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</div>
 
-| Stats | Top Languages |
-|:---:|:---:|
-| ![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshatG-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatG-coder&layout=compact&theme=tokyonight&hide_border=true) |
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AkshatG-coder&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AkshatG-coder&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
