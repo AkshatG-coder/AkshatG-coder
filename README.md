@@ -58,8 +58,9 @@
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshatG-coder&show_icons=true&theme=tokyonight&count_private=true" alt="Akshat's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatG-coder&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  ![Akshat's Stats](https://github-readme-stats.vercel.app/api?username=AkshatG-coder&show_icons=true&theme=tokyonight&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatG-coder&layout=compact&theme=tokyonight)
 </p>
 
 ---
